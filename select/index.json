@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【IA】The Everlasting Guilty Crown【GuiltyCrown】",
+  "base_artist": "タカオカミズキ",
+  "createdAt": "2025-12-01T13:03:02.394623Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_The_Everlasting_Guilty_Crown_EGOIST.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_02_The_Everlasting_Guilty_Crown_EGOIST.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_03_The_Everlasting_Guilty_Crown_EGOIST.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_04_The_Everlasting_Guilty_Crown_EGOIST.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The Everlasting Guilty Crown Nightcore mix",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_05_The_Everlasting_Guilty_Crown_Nightcore_mix_EGOIST.txt"
+    }
+  ]
+}
